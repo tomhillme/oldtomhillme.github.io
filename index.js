@@ -28,4 +28,14 @@ $(document).ready(() => {
     $(".whatsapp").css("color", "#1FDA9A");
     $("h1").css("color", "#000000");
   });
+  
+    $(".email").hover(() => {
+    $("body").css("background", "#28ABE3");
+    $(".email").css("color", "#fff");
+    $("h1").css("color", "#ffffff");
+  }, () => {
+    $("body").css("background", "#ffffff");
+    $(".email").css("color", "#28ABE3");
+    $("h1").css("color", "#000000");
+  });
 });
