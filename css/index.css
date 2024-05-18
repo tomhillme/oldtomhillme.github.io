@@ -45,18 +45,24 @@ h2 {
   transition: 0.3s ease-in-out;
 }
 
-.spotify {
-  color: #DB3340;
-}
 
 .instagram {
-  color: #E8B71A;
+  color: #962fbf;
 }
 
-.whatsapp {
-  color: #1FDA9A;
+.unsplash {
+  color: #0cda3c;
 }
 
-.philosophy {
-  color: #28ABE3;
+
+.linkedin {
+  color: #0077B5;
 }
+
+.soundcloud {
+  color: #FF7700;
+}
+
+
+
+
